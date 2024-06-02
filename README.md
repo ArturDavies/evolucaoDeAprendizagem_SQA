@@ -33,7 +33,7 @@
 
   
 **Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?**
--Hoje, entendo que funções são uma forma de guardar um ou mais determinados formulas e maneiras de tratamento das variaveis e dos dados atribuidos a elas, também sei que é possivel chamar uma função dentro de outra função, e assim, sucessivamente. O que para mim parece uma confusão total. 
+- Hoje, entendo que funções são uma forma de guardar um ou mais determinados formulas e maneiras de tratamento das variaveis e dos dados atribuidos a elas, também sei que é possivel chamar uma função dentro de outra função, e assim, sucessivamente. O que para mim parece uma confusão total. 
 - Como imaginava, tipos de dados aparece, como todas as 'coisas' em programação para facilitar mas, ambiguamente, complexificar as possibilidades de escrever os códigos de programação, sinto que preciso práticar mais e estudar mais sobre linguagem de programação e com isso, tipos de dados em geral.
 - Posso dizer que os tipos utilitários auxiliam na escrita, logo, simplifica e diminui as linhas. Porém, como estou tendo o primeiro contato, sinto dificuldade em entender realmente as formas e maneiras de como trabalhar com eles, onde eles podem serem inseridos e etc...
 - Nos métodos de srting posso dizer que preciso praticas mais, ainda confundo alguns métodos então o retorno dá erro, porém quando mudo o retorno dá acerto, então volto a aula e percebo que troquei ( Splice <-> Slice), mas percebo que estou avançando.
