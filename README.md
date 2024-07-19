@@ -89,17 +89,29 @@
 - Autenticação e Criptografia
 - Integração com API de terceiros
 - Git e Fluxo de Trabalho em Equipe
+- Metodologias Ágeis 
   
 <br>
 
 **O que eu já sei sobre os assuntos que serão abordados nesse módulo?**<br>
-  <p>  Iniciamos com SQL uma sigla tão falada em qualquer coisa de programação que se procure! Percebi agora que não sei nem o que significa, e se não for uma sigla? Acontece! Imagino que quando falamos de modelagem seja também sobre tratamento de dados, como no modulo anterior famos usar um 'molde' e uma 'materia - prima' para desenvolver nosso projeto. CRUD? numca vi, nunca comi, muito menos ouvir falar. Torço para que seja outra sigla ou abreviatura para não passar vergonha. 
+  <p>  Iniciamos com SQL uma sigla tão falada em qualquer coisa de programação que se procure! Percebi agora que não sei nem o que significa, e se não for uma sigla? Acontece! Imagino que quando falamos de modelagem seja também sobre tratamento de dados, como no modulo anterior vamos usar um 'molde' e uma 'materia - prima' para desenvolver nosso projeto. CRUD? nunca vi, nunca comi, muito menos ouvir falar. Torço para que seja outra sigla ou abreviatura para não passar vergonha. 
+  Imagino que, ao falar sobre agrupar e relacionar tabelas exista algo direcionado ao uso do excel, como tenho uma certa experiencia com as tabelas daquele aplicativo, creio que agrupamento e relacionamento - pelo menos, a lógica- esteja ligada a usabilidade do excel. 
+  Estou super emplogado e desejando as aulas de criptografia e integração de APi, pois são assuntos que nunca tive contato fora da imaginação, estou feito menino pequeno, não quero nem ver o trailer pra não tomar spoiler. Quando maior a espectativa maior seja então a sua quebra. 
+    
 </p>
 <br>
 
 **O que quero aprender sobre os assuntos que serão abordados nesse módulo?**<br>
   <p>  Quero e preciso aprender mais e melhor sobre banco de dados e tratamento de banco de dados, me aprofundar mais sobre isso, não só o /some/filter/found entre outros! 
+    Quero também descobrir sobre esse tema tão falado nas redes dos devs, banco de dados, como construir, como trabalhar com, pra que serve?, assim como as bibliotecas que os envolvem. Imagino que quando se paresente metodologias ágeis, iniciaremos o entendimeto sobre isso, formas de tratar o banco de dados de forma rápida e direta. 
 </p>
 <br>
+
+**Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?**<br>
+<p>
+  Gostaria de começar escrevendo sobre uma aula inesperada que se torna especial. Metologias Ágeis. Porque de primeira eu acreditava ser algo restrito da programação, desligado do que realmente -ao pé da letra- quer dizer as palavras do tema. Aprendi que sim, não pertence somente a programação mas é de utilização global, logo, também da programação, principalmente quando falamos de projetos de trabalho, claro em grupo. Mas de forma central revela a necessidade de lidar com intermediação de conflito entre os integrantes - indluindo você próprio. Técnicas de diferentes frentes que foram desenvolvidas em diferentes épocas, por diferentes pessoas, com o intuito claro e objetivo- tal que, até hoje debruçamos-nos sobre eles- de nos relacionar de forma saudavel com os outros e com nós mesmo, nossas falhas e frustrações das espectativas, responsabilidades e responsabilizações, colocar-se e velar-se, como diria o poeta : _ser ou não ser? eis a questão_
+</p>
+
+
 
   
