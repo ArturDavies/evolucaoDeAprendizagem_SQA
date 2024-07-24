@@ -1,6 +1,12 @@
 
 # _EvoluçãoDeAprendizagem_SQA_ 
-## Modulo II 
+
+<details> 
+  
+<summary> Modulo II </summary>
+
+## Modulo II
+
 **Conteúdos a serem trabalhados nesse módulo:**
 - Funções (Tipagens em funções)
 - Tipos de dados II
@@ -43,7 +49,7 @@
 - A gestão de tempo, no sentido que fora trazido -gestão como adiministração, como gerenciamento- acaba sendo algo restrito e cristalizado dentro do universo de gestão do tempo, porém as especificidades trazem também um olhar mais abrangente, na minha quebra de espectativa pude refletir sobre meu tempo próprio e como lidava com ele e com a procrastinação, devolvo o torna consciente e  o debruçar-se sobre a ação após o planejamento, na aula também pude perceber que algumas práticas do dia-a-dia nos leva a uma má gestão desse tempo cronológico e modifica-las ou extermina-las seja necessário, algo pequeno talvez.
 - A analise da vaga pela descrição, o contemplamento de informações coerentes com vaga no _curriculum_, aprender sobre a empresa, pesquisar sobre a empresa, tudo isso parece ser obvio, mas as vezes o obvio precisa ser posto. "Para quem não tem um caminho traçado qualquer serve", podemos tirar algumas interpretações dessa frase, inclusive, que qualquer um pode fazer parte do seu caminho a principio, hoje vivemos no Brasil algumas condições que não são tão favoraveis então talvez o qualquer um possibilite um salto futuro para o caminho esperado, num futuro que esperamos ser melhor que o presente.
 - O LinkedIn e a forma apropriada de edita-lo, tal que vai te lhe levar a vaga ou ao recrutador certo. Tudo nessa aula pra mim foi novo, desde a foto profissional, e a mensagem que ela passa até os pormenores como na aula -aquilo que ninguem te conta. Aprendir mais do que todo o assuto que devo mudar meu linkedin já! 
-
+</details>
 
 ## Modulo III 
 **Conteúdos a serem trabalhados nesse módulo:**
